@@ -1,0 +1,39 @@
+header {
+    top: 300;
+    width: 100%;
+    position: relative;
+    font-size: 40px;
+    Font-family: Bahnschrift Condensed;
+}
+
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+
+.text{
+    color: Black;
+    font-family:Arial;
+}
+
+.btn{
+    position: Relative;
+    top: 20;
+    right: 10;
+}
+
+img{
+    position: relative;
+    top: 5;
+    right: 5;
+}
+
+tabl{
+   position: Relative;
+   top: 5;
+   right: 5;
+}
+
+   
+
